@@ -44,8 +44,9 @@ img{
 }
 
 #sec9{
-    display:grid;
-    margin-left:12vmin;
+     display:grid;
+    padding-left:15vmin;
+    padding-right;
     grid-template-columns: 1fr 1fr ;
     grid-template-rows: 1fr 1fr;
     column-gap: 2vmin;
