@@ -28,7 +28,7 @@ img{
 #sec2{
     height:100vh; 
     font-size:4vmin; 
-    margin-top:50vh; 
+    padding-top:50vh; 
     align-items: center;
     justify-content: space-evenly;
     display:flex; 
