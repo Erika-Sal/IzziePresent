@@ -38,10 +38,9 @@ img{
     height:100vh; 
     font-size:4vmin; 
     align-items: center;
-    padding-top:15vh; 
     justify-content: space-evenly;
     display:flex; 
-    padding-top: 10vmin; 
+    padding-top: 20vmin; 
 }
 
 #sec9{
